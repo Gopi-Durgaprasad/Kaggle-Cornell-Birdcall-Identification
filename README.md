@@ -1,10 +1,11 @@
 ## Kaggle Cornell Birdcall Identification 21st place solution
 
+Competition page: https://www.kaggle.com/c/birdsong-recognition 
+
 ### Problem
 
 In this competition identify which birds are calling in long recordings, given training data generated in meaningfully different contexts. This is the exact problem facing scientists trying to automate the remote monitoring of bird populations.
 
-Competition page: https://www.kaggle.com/c/birdsong-recognition 
 
 #### [Big Shake-up]
 - LB : 0.533 ---> Private LB : 0.632
