@@ -6,6 +6,9 @@ Competition page: https://www.kaggle.com/c/birdsong-recognition
 
 In this competition identify which birds are calling in long recordings, given training data generated in meaningfully different contexts. This is the exact problem facing scientists trying to automate the remote monitoring of bird populations.
 
+Leaderboard:
+![leaderboard](leaderboard.png)
+
 
 #### [Big Shake-up]
 - LB : 0.533 ---> Private LB : 0.632
